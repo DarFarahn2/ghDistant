@@ -4,8 +4,8 @@ Algo HelloWorld {
  Créer une fenetre de titre ‘Hello world’
 Mettre la dimension à 800, 350
 Configurer la fenetre sur ‘exitOnClose’
-Créer la couleur jaune
-Mettre la couleur jaune sur la fenetre
+Créer la couleur verte
+Mettre la couleur verte sur la fenetre
 // Création du label de texte
 Créer un label avec du texte centré et contenant le texte ‘Hello world’
 Mettre la couleur jaune sur le label
